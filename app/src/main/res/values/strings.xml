@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SneakerStoreApp</string>
+    <string name="text_welcome">WELLCOME TO \nNIKE</string>
+    <string name="text_getStarted">Get Started</string>
+    <string name="text_getStartedJourney">Let’s Start Journey \nWith Nike</string>
+    <string name="text_getStartedSmart">Smart, Gorgeous &amp; Fashionable \nCollection Explor Now</string>
+    <string name="btn_next">Next</string>
+    <string name="text_power">You Have the \nPower To</string>
+    <string name="text_attractive">There Are Many Beautiful And Attractive \nPlants To Your Room</string>
+</resources>
